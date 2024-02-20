@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 20 14:30:53 CET 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-018d-c6b6-5031-000001197470 
+on database directory /home/crayfe/eclipse-workspace/AirlineManager/bdatos with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Loaded from file:/home/crayfe/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=19.0.1+10
+user.dir=/home/crayfe/eclipse-workspace/AirlineManager
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-94-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
